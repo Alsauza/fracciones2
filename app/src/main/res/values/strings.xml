@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fracciones</string>
+    <string name="buttonVerdad">Verdadero</string>
+    <string name="buttonFalso">Falso</string>
+    <string name="buttonSiguiente">Siguiente</string>
+    <string name="tituloFracSobreFrac">Fracción sobre fracción</string>
+    <string name="tituloFracSobreEntero">Fracción sobre entero</string>
+    <string name="tituloEnteroSobreFrac">Entero sobre fracción</string>
+    <string name="respuestaCorrecta">Solución:</string>
+    <string name="correcto">Correcto!</string>
+    <string name="error">Incorrecto! La respuesta correcta es:</string>
+
+</resources>
